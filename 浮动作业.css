@@ -1,0 +1,104 @@
+
+   .wrapper{
+ 
+   width: 500px;
+
+   border:10px solid #cccccc;
+
+   margin:50px auto;
+
+   background: #336699;
+
+
+   }
+
+   .box1{
+
+   width: 200px;
+
+   height:400px;
+
+   background: #77aa11;
+
+   float: left;
+
+
+   }  
+
+   .box2{
+
+   width: 300px;
+
+
+   background: #336699;
+
+   float: left;
+  
+  }
+
+   .bb1{
+
+    width: 300px;
+
+    height: 80px;
+
+    background: #ff9900;
+
+    float: right;
+
+   }
+
+   .wrapper2{
+
+   width: 300px;
+
+   height: 320px;
+
+   background: #336699;
+
+
+
+
+   }
+
+   .wrapper2 .bb2{
+ 
+   width: 150px;
+
+   height: 160px;
+
+   background: #44ffcc;
+
+   float: right;
+
+
+   }
+
+   .wrapper2 .bb3{
+
+   width: 150px;
+
+   height: 160px;
+
+   background: #ff6699;
+
+   height: 160;
+
+   float: right;
+
+
+
+   }
+
+   .clear:after{
+
+    content:'';
+
+    display:block;
+
+   clear:both;
+
+
+   }
+    
+
